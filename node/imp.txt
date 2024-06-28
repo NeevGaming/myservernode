@@ -1,0 +1,3 @@
+npm install node-os-utils
+npm install ws
+npm install node-ssh
